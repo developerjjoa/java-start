@@ -7,6 +7,5 @@ public class CommentJava {
         System.out.println("hello java3");
         System.out.println("hello java4");
         */
-
     }
 }
